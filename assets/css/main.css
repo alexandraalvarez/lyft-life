@@ -36,3 +36,7 @@
 #sectn-lyftlyfe #btn-login {
 	margin-left: 50rem;
 }
+#sectn-lyftlyfe #btn-signup a {
+	text-decoration: none;
+	color: #DF01D7;
+}
