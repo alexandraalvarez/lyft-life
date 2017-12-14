@@ -40,3 +40,13 @@
 	text-decoration: none;
 	color: #DF01D7;
 }
+
+@media (min-width: 200px) and (max-width: 425px) {
+	#sectn-lyftlyfe .logo-white {
+		padding-bottom: 10rem;
+		width: 15%;
+}
+	#sectn-lyftlyfe #btn-login {
+		margin-left: 5rem;
+}
+} 
