@@ -40,6 +40,13 @@
 	text-decoration: none;
 	color: #DF01D7;
 }
+#sectn-sign-up .h2 {
+	padding-bottom: 2rem;
+}
+#sectn-sign-up .join {
+	padding-bottom: 2rem;
+	border-bottom: 1px solid #000000;
+}
 
 @media (min-width: 200px) and (max-width: 425px) {
 	#sectn-lyftlyfe .logo-white {
